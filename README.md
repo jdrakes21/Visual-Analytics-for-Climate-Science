@@ -69,7 +69,7 @@ A static drift map rendered via Matplotlib and Cartopy:
 
 📷 _Example Output (Insert image or screenshot link):_
 
-![Drift Output Preview](<insert-screenshot-link-here>)
+![Drift Output Preview]((https://github.com/jdrakes21/Visual-Analytics-for-Climate-Science/blob/main/Iceberg%20drift%20path.png))
 
 ---
 
