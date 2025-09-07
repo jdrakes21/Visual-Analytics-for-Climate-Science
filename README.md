@@ -105,6 +105,27 @@ This work is part of a broader exploration of **how interactive tools can suppor
 
 ---
 
+## 🔍 Synthesis of Results
+
+- The **drift path** shows a significant migration of D-15A from near the Antarctic Peninsula toward the South Atlantic, consistent with patterns seen in satellite imagery of iceberg decay and dispersal.
+- While only using the **start and end coordinates**, the visualization reveals:
+  - The **potential role of ocean currents** (e.g., Antarctic Circumpolar Current)
+  - How **polar projection choice** improves geospatial reasoning over raw latitude-longitude maps
+- The project also highlighted the need for **UI components** that allow scientists to:
+  - Toggle between multiple projections
+  - Overlay temperature or current data
+  - Annotate uncertainty in location or mass
+
+---
+
+## 🤔 What I Learned
+
+- 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.
+- 🧭 **Visual design decisions** (e.g., color for start/end, labeled legends) are critical in making data understandable to scientific and public audiences.
+- ⚙️ **Scientific dashboards** must consider how to balance clarity with complexity. While the goal was to build an interactive Panel/Streamlit dashboard, infrastructure limitations (e.g., Colab not supporting full dashboards without ngrok auth) forced a fallback to static plots. This still conveyed essential insights.
+
+---
+
 ## 🖼️ Acknowledgments
 
 - Satellite imagery: Sentinel Hub (2020)  
