@@ -67,9 +67,9 @@ A static drift map rendered via Matplotlib and Cartopy:
 - **Annotations**: Start point, end point, straight-line drift
 - **Map Features**: Coastlines, gridlines
 
-📷 _Example Output (Insert image or screenshot link):_
+📷 _Example Output 
 
-![Drift Output Preview]((https://github.com/jdrakes21/Visual-Analytics-for-Climate-Science/blob/main/Iceberg%20drift%20path.png))
+![Drift Output Preview](https://github.com/jdrakes21/Visual-Analytics-for-Climate-Science/blob/main/Iceberg%20drift%20path.png)
 
 ---
 
