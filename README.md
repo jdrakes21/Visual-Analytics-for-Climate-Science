@@ -131,6 +131,6 @@ This work is part of a broader exploration of **how interactive tools can suppor
 - Satellite imagery: Sentinel Hub (2020)  
 - Data source: NASA ITS-LIVE  
 - Program: NSF iHARP REU at UMBC  
-- Mentors and collaborators: Dr. Dawn Williams (UMBC), iHARP project leads  
+- Mentors and collaborators: Dr. Rebecca Williams (UMBC), iHARP project leads  
 
 ---
