@@ -102,14 +102,14 @@ The results so far show that a simple linear regression provides a **baseline es
 - **Visualization impact:** A **single composite figure** (map + error plot) clearly communicates both spatial deviation and how error evolves over time.  
 
 ### Next Steps
-- Explore **non-linear predictive models** (e.g. **LSTM**) to handlevarying speeds.  
+- Explore **non-linear predictive models** (e.g. **LSTM**) to handle varying speeds.  
 - Build an **interactive dashboard** (Streamlit or Panel) for dynamic exploration of trajectories and errors.  
 - Add **uncertainty visualization** around predicted positions.  
 - Scale up to **multiple icebergs** to compare regional and seasonal drift behaviors.  
 
 ## 🖼️ Acknowledgments
 
-- **Satellite imagery:** Sentinel Hub (2020)  
+- **Satellite imagery:** Sentinel Hub (2025)  
 - **Data source:** NASA ITS-LIVE  
 - **Program:** NSF iHARP REU at UMBC  
 - **Mentors and collaborators:** Dr. Rebecca Williams (UMBC), iHARP project leads 
