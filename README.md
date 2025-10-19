@@ -8,7 +8,7 @@
 ## 🌍 Project Overview  
 
 This project is part of the **iHARP REU** program at UMBC, under the theme *Geospatial Reasoning and Visual Analytics for Environmental Research*.  
-It focuses on modeling and visualizing the **drift path of Antarctic iceberg D-32 (2025)** using monthly satellite CSV data.  
+I am currently focusing on modeling and visualizing the **drift path of Antarctic iceberg D-32 (2025)** using monthly satellite CSV data.  
 The goal is to build an interpretable workflow that couples **statistical trajectory modeling**, **error quantification**, and **visual mapping** to support climate-science reasoning.
 
 ---
