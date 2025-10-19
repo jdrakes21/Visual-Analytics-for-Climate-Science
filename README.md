@@ -86,37 +86,39 @@ The analysis includes:
 ```bash
 pip install pandas numpy matplotlib cartopy scikit-learn
 
----
-## 🤔 What I have learnt so far
+## 🤔 What I Have Learnt So Far
 
-- 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.
-- 🧭 **Visual design decisions** (e.g., color for start/end, labeled legends) are critical in making data understandable to scientific and public audiences.
+- 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.  
+- 🧭 **Visual design decisions** (e.g., color for start/end, labeled legends) are critical in making data understandable to both scientific and public audiences.  
+
+---
 
 ## 🔍 Synthesis of Results and Future Work
 
-The results so far show that a simple linear regression provides a **baseline** estimate of iceberg D-32’s drift direction, but it **does not capture the non-linear motion** driven by changing ocean currents, winds, and melt processes.
+The results so far show that a simple linear regression provides a **baseline estimate** of iceberg D-32’s drift direction but does **not capture the non-linear motion** driven by changing ocean currents, winds, and melt processes.
 
 ### Key Findings
-- **Trajectory accuracy:** The predicted path follows the overall westward drift but departs by **~100–400 km** mid-year, indicating non-linear motion.
-- **Environmental influence:** Largest errors align with months where **ocean current changes** likely altered the iceberg’s course.
-- **Visualization impact:** A **single composite figure** (map + error plot) clearly communicates both spatial deviation and how error evolves over time.
+- **Trajectory accuracy:** The predicted path follows the overall westward drift but departs by **~100–400 km** mid-year, indicating non-linear motion.  
+- **Environmental influence:** Largest errors align with months where **ocean current changes** likely altered the iceberg’s course.  
+- **Visualization impact:** A **single composite figure** (map + error plot) clearly communicates both spatial deviation and how error evolves over time.  
 
 ### Next Steps
-- Explore **non-linear predictive models** (e.g., **ARIMA**, **LSTM**) to handle curvature and varying speeds.
-- Build an **interactive dashboard** (Streamlit or Panel) for dynamic exploration of trajectories and errors.
-- Add **uncertainty visualization** around predicted positions.
-- Scale up to **multiple icebergs** to compare regional and seasonal drift behaviors.
+- Explore **non-linear predictive models** (e.g., **ARIMA**, **LSTM**) to handle curvature and varying speeds.  
+- Build an **interactive dashboard** (Streamlit or Panel) for dynamic exploration of trajectories and errors.  
+- Add **uncertainty visualization** around predicted positions.  
+- Scale up to **multiple icebergs** to compare regional and seasonal drift behaviors.  
 
 ---
 
 ## 🖼️ Acknowledgments
 
-- Satellite imagery: Sentinel Hub (2020)  
-- Data source: NASA ITS-LIVE  
-- Program: NSF iHARP REU at UMBC  
-- Mentors and collaborators: Dr. Rebecca Williams (UMBC), iHARP project leads  
+- **Satellite imagery:** Sentinel Hub (2020)  
+- **Data source:** NASA ITS-LIVE  
+- **Program:** NSF iHARP REU at UMBC  
+- **Mentors and collaborators:** Dr. Rebecca Williams (UMBC), iHARP project leads  
 
 ---
+
 
 ## 🧠 Author  
 
