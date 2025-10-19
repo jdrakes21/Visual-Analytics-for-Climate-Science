@@ -81,17 +81,16 @@ The analysis includes:
 
 ---
 
-## ⚙️ Dependencies  
+## ⚙️ Dependencies
 
 ```bash
 pip install pandas numpy matplotlib cartopy scikit-learn
+```
 
 ## 🤔 What I Have Learnt So Far
 
 - 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.  
 - 🧭 **Visual design decisions** (e.g., color for start/end, labeled legends) are critical in making data understandable to both scientific and public audiences.  
-
----
 
 ## 🔍 Synthesis of Results and Future Work
 
@@ -103,21 +102,17 @@ The results so far show that a simple linear regression provides a **baseline es
 - **Visualization impact:** A **single composite figure** (map + error plot) clearly communicates both spatial deviation and how error evolves over time.  
 
 ### Next Steps
-- Explore **non-linear predictive models** (e.g., **ARIMA**, **LSTM**) to handle curvature and varying speeds.  
+- Explore **non-linear predictive models** (e.g. **LSTM**) to handlevarying speeds.  
 - Build an **interactive dashboard** (Streamlit or Panel) for dynamic exploration of trajectories and errors.  
 - Add **uncertainty visualization** around predicted positions.  
 - Scale up to **multiple icebergs** to compare regional and seasonal drift behaviors.  
-
----
 
 ## 🖼️ Acknowledgments
 
 - **Satellite imagery:** Sentinel Hub (2020)  
 - **Data source:** NASA ITS-LIVE  
 - **Program:** NSF iHARP REU at UMBC  
-- **Mentors and collaborators:** Dr. Rebecca Williams (UMBC), iHARP project leads  
-
----
+- **Mentors and collaborators:** Dr. Rebecca Williams (UMBC), iHARP project leads 
 
 
 ## 🧠 Author  
