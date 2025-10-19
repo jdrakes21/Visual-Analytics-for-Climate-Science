@@ -59,7 +59,7 @@ The analysis includes:
 
 📷 *Composite Visualization Output – Iceberg D32 (2025)*  
 
-![Iceberg D32 Trajectory and Error Visualization](docs/iceberg_d32_combined.png)
+![Iceberg D32 Trajectory and Error Visualization](iceberg_d32_combined.png)
 
 **Description:**  
 - **Cyan line:** Observed (true) iceberg path  
@@ -86,7 +86,7 @@ The analysis includes:
 ```bash
 pip install pandas numpy matplotlib cartopy scikit-learn
 
-
+---
 ## 🤔 What I have learnt so far
 
 - 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.
@@ -107,7 +107,7 @@ The results so far show that a simple linear regression provides a **baseline** 
 - Add **uncertainty visualization** around predicted positions.
 - Scale up to **multiple icebergs** to compare regional and seasonal drift behaviors.
 
-
+---
 
 ## 🖼️ Acknowledgments
 
