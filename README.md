@@ -87,7 +87,7 @@ The analysis includes:
 pip install pandas numpy matplotlib cartopy scikit-learn
 ```
 
-## 🤔 What I Have Learnt So Far
+## What I Have Learnt So Far
 
 - 🛰️ **Working with geospatial data** requires careful projection choices to avoid misleading interpretations—especially in polar regions.  
 - 🧭 **Visual design decisions** (e.g., color for start/end, labeled legends) are critical in making data understandable to both scientific and public audiences.  
